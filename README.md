@@ -47,7 +47,7 @@ npm run deploy
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pizzaboi87/esplendor-strapi-backend.git
+   git clone https://github.com/weiserdev/esplendor-strapi-backend.git
    ```
 
 2. Install dependencies:
